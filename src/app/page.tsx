@@ -1,6 +1,6 @@
 import Image from "next/image";
-import { Evals } from "@/components/component/evals";
+import { Welcome } from "@/components/component/welcome";
 
 export default function Home() {
-  return <Evals />;
+  return <Welcome />; 
 }

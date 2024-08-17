@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^0.0.48",
+    "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^2.1.5",
     "@radix-ui/react-avatar": "^1.1.0",
     "@radix-ui/react-dialog": "^1.1.1",
@@ -24,6 +25,7 @@
     "openai": "^4.56.0",
     "react": "^18",
     "react-dom": "^18",
+    "recharts": "^2.12.7",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.23.8"
